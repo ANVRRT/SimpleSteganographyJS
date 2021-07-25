@@ -27,7 +27,7 @@ Simple Steganography with Javascript using DukeLearn library
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Simple Steganography using Javascript</h3>
