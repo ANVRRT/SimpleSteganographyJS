@@ -1,0 +1,13 @@
+<html>
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+<script src="js/functions.js"></script>
+<link rel="stylesheet" href="css/style.css">
+<canvas id="fimage"></canvas>
+<p> Principal Image: <input id="principalImg" type="file" multiple="false" accept="image/*" onchange="Upload(this.id);" /></p>
+<p> Image to hide: <input id="hideImg" type="file" multiple="false" accept="image/*" onchange="Upload(this.id);" /> </p>
+<p> Merge: <input type="button" onclick="HiddingProcess();" value="Merge" /></p>
+<p> Unmerge: <input type="button" onclick="UnHiddingProcess();" value="UnMerge" /></p>
+
+<input type="button" onclick="download()" value="Download" />
+
+</html>
