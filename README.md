@@ -53,7 +53,7 @@ Simple Steganography with Javascript using DukeLearn library
 <!-- ABOUT THE PROJECT -->
 ## About The Project (In Spanish)
 
-With this simple project you would be able to hide images in other images (Steganography) by replacing the 4 least important binary values of the color for every pixel of an image with the 4 most important binary values of the color for every pixel of the image you want to hide.
+With this simple project you would be able to hide images in other images (Steganography) by replacing the 4 least important binary values of the RGB values for every pixel of an image with the 4 most important binary values of the RGB values for every pixel of the image you want to hide.
 
 
 ### Built With
