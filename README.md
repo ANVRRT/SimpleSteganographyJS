@@ -95,7 +95,6 @@ Alberto Navarrete- [Linkedin](https://www.linkedin.com/in/albertonr/) - alberton
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-1-GREEN?style=for-the-badge
 [license-shield]: https://img.shields.io/badge/LICENSE-MIT-GREEN?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/albertonr/
-[product-screenshot]: images/screenshot.png
